@@ -1,0 +1,1 @@
+该项目实现纯selenium+chrome获取数据（通过selenium+thread+proxy+captcha实现数据获取）
